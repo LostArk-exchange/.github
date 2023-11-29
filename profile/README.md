@@ -1,8 +1,6 @@
 ## LostArk 거래소
 ### LostArk open api를 이용한 거래소 서비스
 
-## 💻 Skills
-
 ### frontend
 <img src="https://img.shields.io/badge/vue.ts-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/tsnode-3178C6?style=for-the-badge&logo=tsnode&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
